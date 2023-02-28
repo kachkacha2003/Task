@@ -57,7 +57,7 @@ for(var i=0;i<machines.length;i++){
     var img=document.createElement("img");
     imgDiv.appendChild(img)
 
-    img.src="/images/computer.webp";
+    img.src="./images/computer.webp";
     main.appendChild(box);
     box.appendChild(imgDiv);
    
